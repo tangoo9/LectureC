@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-Int main()
+int main()
 {
-	printf("hello world! \n" );
+	printf("hello world! \n" ); //주석 추가
 	return 0;
 }
