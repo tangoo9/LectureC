@@ -1,3 +1,4 @@
+//합격, 불합격
 #include<stdio.h>
 int main()
 {
