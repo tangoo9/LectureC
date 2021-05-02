@@ -28,14 +28,6 @@ int main()
         default:
             printf("무슨 명령인지 못 알아 듣겠어. 왈왈 \n");
             break;
-    }
-	{
-	printf("프로그램을 종료하시겠습니까? Y / N")
-	scanf("%d",end);
-	if 'y' 
-		printf("프로그램을 종료합니다.")
-	else if 'n'
-		printf("프로그램을 종료하지않습니다.")
-	}
+	}                                                        
     return 0;
 }
